@@ -7,6 +7,7 @@ const BGColor = document.getElementById("BGColor");
 const FGColor = document.getElementById("FGColor");
 let QR_Code;
 
+
 let sizeChoice, BGColorChoice, FGColorChoice;
 
 //Set size
